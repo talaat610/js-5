@@ -1,0 +1,104 @@
+
+
+.myimg{
+    width: 70px !important;
+}
+.home-section{
+    background-color: #1e202b;
+}
+.imgsection{
+    background-image: url(../photo/banner.png);
+    background-repeat: no-repeat;
+}
+.fristinputdiv{
+    background-color: #22232f;
+    border-radius: 50px;
+    padding: 5px;
+    width: 80%;
+}
+.fristinput{
+    flex: 1;
+    border: none; 
+    outline: none;
+    padding: 15px 20px;
+    border-radius: 50px; 
+    background-color: #22232f;
+    color: white; 
+    font-size: 16px;
+}
+.mybtn{
+    border: none;
+    background-color: #00a9f4;
+    color: white; 
+    padding: 10px 25px; 
+    border-radius: 50px; 
+    font-size: 20px; 
+}
+.second-section{
+    background-color: #262936; 
+    height: 40vh;
+}
+.second-section .box-icoc .icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color:#1e202b ;
+    color:#009ad8;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s;
+}
+.second-section .box-icoc .icon:hover{
+    background-color:#009ad8;
+    color:#fff;
+}
+.secondinputdiv{
+    background-color: #22232f;
+    border-radius: 50px;
+    padding: 5px;
+    width: 100%;
+}
+.secondinput{
+    flex: 1;
+    border: none; 
+    outline: none;
+    padding: 15px 20px;
+    border-radius: 50px; 
+    background-color: #22232f;
+    color: white; 
+    font-size: 16px;
+}
+.mybtnn{
+    border: none;
+    background-color: #00a9f4;
+    color: white; 
+    padding: 10px 25px; 
+    border-radius: 50px; 
+    font-size: 20px; 
+}
+.myul li a{
+ color: #fff;
+}
+.myul li .active {
+  outline: 2px solid #00a9f4;
+  color: #009ad8 !important;
+}
+.myul li a:hover{
+    outline: 2px solid #00a9f4;
+    color: #00a9f4 !important;
+}
+.row .col .card{
+    min-height: 450px;
+    background-color: #262936;
+    color: #fff !important;
+    margin-bottom: 50px !important ;
+}
+.myh1{
+    font-size: 100px;
+}
+.ooo{
+    background-color: #1e202b !important;
+    margin-bottom: 50px !important;
+}

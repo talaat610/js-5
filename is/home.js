@@ -79,12 +79,8 @@ let cartona= `
 
         `
                 document.getElementById('rowData').innerHTML= cartona ; 
- 
               
             }
-
-
-
 
 if(navigator.geolocation){
   navigator.geolocation.getCurrentPosition(function(position){
@@ -100,3 +96,11 @@ if(navigator.geolocation){
       getLocation(cityRequest);
   })
 }
+
+
+
+
+
+
+
+
